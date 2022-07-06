@@ -1,4 +1,4 @@
-## Addes 4 features to the Markdown Notes App
+## Added 4 features to the Markdown Notes App
 
 1. Deleting a note.
 2. The title of the note would now be the first line of the note.
